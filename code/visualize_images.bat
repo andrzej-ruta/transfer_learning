@@ -1,0 +1,1 @@
+python visualize_images.py -i H:/Doc/Contests/CIFAR10/data/cifar-10-batches-py/sampled_data_batch_1 -m H:/Doc/Contests/CIFAR10/data/cifar-10-batches-py/batches.meta -o H:/Doc/Contests/CIFAR10/out -n 10
