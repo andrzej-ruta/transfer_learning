@@ -32,7 +32,7 @@ class DeepTransferModel():
 		
 		self.min_explained_variance_ratio = 0.95
 		
-		self.kernel_type = 'poly'
+		self.kernel_type = 'rbf'
 		self.scoring_function = 'accuracy'
 		self.num_cv_folds = 5
 		self.num_parallel_jobs = 3
